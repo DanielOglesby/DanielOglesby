@@ -1,16 +1,27 @@
-### Hi there 👋
+## About Me
 
-<!--
-**DanielOglesby/DanielOglesby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm Daniel Oglesby, a passionate full stack developer with expertise in a wide range of technologies. I graduated from the University of Texas at Dallas in 2023 with a degree in Computer Science, and I'm constantly exploring and learning new technologies to stay at the forefront of the ever-evolving web development landscape.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the key technologies and tools I'm proficient in:
+
+- **Languages**: JavaScript, TypeScript
+- **Frontend**: Svelte, SvelteKit, React, Vue.js
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL, MongoDB
+- **Cloud Platforms**: Heroku, AWS, Azure
+- **Infrastructure as Code**: Terraform
+- **Version Control**: Git, GitHub
+- **Other Tools**: Docker, Kubernetes
+
+## Contact
+
+Feel free to reach out to me through the following channels:
+
+- **Email**: [dgo4man1@gmail.com](mailto:dgo4man1@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/daniel-oglesby-b68086b3/)
+
+I'm always open to collaboration, discussions, and new opportunities, so don't hesitate to get in touch.
+
+Thank you for visiting my GitHub profile, and I look forward to connecting with you! 🚀
