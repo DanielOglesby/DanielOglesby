@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! 👋 I'm Daniel Oglesby, a passionate full stack developer with expertise in a wide range of technologies. I graduated from the University of Texas at Dallas in 2023 with a degree in Computer Science, and I'm constantly exploring and learning new technologies to stay at the forefront of the ever-evolving web development landscape.
+Hello! 👋 My name is Daniel Oglesby, a passionate full stack developer with expertise in a wide range of technologies. I graduated from the University of Texas at Dallas in 2023 with a degree in Computer Science, and I'm constantly exploring and learning new technologies to stay at the forefront of the ever-evolving web development landscape.
 
 ## Skills
 
