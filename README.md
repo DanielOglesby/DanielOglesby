@@ -21,6 +21,7 @@ Feel free to reach out to me through the following channels:
 
 - **Email**: [dgo4man1@gmail.com](mailto:dgo4man1@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/daniel-oglesby-b68086b3/)
+- **Website**: [Portfolio Website](https://danieloglesby.vercel.app/)
 
 I'm always open to collaboration, discussions, and new opportunities, so don't hesitate to get in touch.
 
