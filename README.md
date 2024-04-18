@@ -13,7 +13,7 @@ Here are some of the key technologies and tools I'm proficient in:
 - **Cloud Platforms**: Heroku, AWS
 - **Infrastructure as Code**: Terraform
 - **Version Control**: Git, GitHub
-- **Other Tools**: Docker, Kubernetes
+- **Other Tools**: Docker
 
 ## Contact
 
