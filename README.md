@@ -7,7 +7,7 @@ Hello! 👋 My name is Daniel Oglesby, a passionate full stack developer with ex
 Here are some of the key technologies and tools I'm proficient in:
 
 - **Languages**: JavaScript, TypeScript
-- **Frontend**: Svelte, SvelteKit, React, Vue.js
+- **Frontend**: Svelte, SvelteKit, React
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL, MongoDB
 - **Cloud Platforms**: Heroku, AWS
