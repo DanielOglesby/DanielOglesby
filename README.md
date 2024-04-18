@@ -10,7 +10,7 @@ Here are some of the key technologies and tools I'm proficient in:
 - **Frontend**: Svelte, SvelteKit, React, Vue.js
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL, MongoDB
-- **Cloud Platforms**: Heroku, AWS, Azure
+- **Cloud Platforms**: Heroku, AWS
 - **Infrastructure as Code**: Terraform
 - **Version Control**: Git, GitHub
 - **Other Tools**: Docker, Kubernetes
