@@ -8,5 +8,3 @@ My name is Daniel Oglesby, full stack web developer with a B.S. Computer Science
 
 - **Email**: [dgo4man1@gmail.com](mailto:dgo4man1@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/daniel-oglesby-b68086b3/)
-
-I'm always open to collaboration, discussions, and new opportunities, so don't hesitate to get in touch.
